@@ -1,1 +1,7 @@
-//write a program that prints a corny joke or pun to the console window :D
+#include <iostream>
+using namespace std;
+int main() {
+	
+	cout << "Whats the hardest part to eat on a vegtable?" << endl << endl << endl << endl << endl << endl << endl;
+	cout << "The wheelchair" << endl;
+}
